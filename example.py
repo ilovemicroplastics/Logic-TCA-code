@@ -1,5 +1,5 @@
 
-# question 1 code
+# question 3 example code
 def five(n):
     x = 1
     i = 0
